@@ -9,7 +9,7 @@ HEROES Academy is an intellectually stimulating environment where students’ pe
 When does this course meet?
 ---------------------------
 
-Intro to Python will meet from 11:30 AM to 1:30 PM on the following Sundays: 
+The Intro to Python course will meet from 11:30 AM to 1:30 PM on the following Sundays: 
 
 - April 10, 17, 24
 - May 1, 8, 15, 22
