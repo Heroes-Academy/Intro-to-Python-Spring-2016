@@ -1,8 +1,8 @@
-.. Resource master file for the Heroes Academy Winter 2016 Introduction to AI course
+.. Resource master file for the Heroes Academy Spring 2016 Introduction to AI course
 .. author: brian mcmahan, tim meo
 .. date: 4/9/2016
 
-Heroes Academy: Introduction to Python, Winter 2016
+Heroes Academy: Introduction to Python, Spring 2016
 ===============================================
 
 Course Description

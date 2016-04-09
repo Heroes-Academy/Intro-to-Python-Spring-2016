@@ -9,7 +9,10 @@ HEROES Academy is an intellectually stimulating environment where students’ pe
 When does this course meet?
 ---------------------------
 
-Intro to Python will meet from 11:30 AM to 1:30 PM on the following Sundays: April 10, 17, 24; May 1, 8, 15, 22; June 5, 12, 19.
+Intro to Python will meet from 11:30 AM to 1:30 PM on the following Sundays: 
+April 10, 17, 24
+May 1, 8, 15, 22
+June 5, 12, 19
 
 How do I register for this course?
 ----------------------------------
@@ -37,6 +40,6 @@ I expect that...
 How do I contact you?
 ---------------------
 
-You can contact me through the following email: tim.meo14@gmail.com
+You can reach me anytime at tim.meo14@gmail.com
 
 
