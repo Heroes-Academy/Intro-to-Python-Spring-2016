@@ -18,7 +18,7 @@ Debugging Help
 Interactive Coding Websites
 ---------------------------
 
-I really enjoy websites that let you code and compete. My favorites are:
+These are some excellent websites that let you code and compete online:
 
 - `Hackerrank <https://www.hackerrank.com/>`_
 - `Codewars <http://www.codewars.com/>`_
@@ -28,9 +28,6 @@ I really enjoy websites that let you code and compete. My favorites are:
 Online Code Environments
 ------------------------
 
-There are several places to run code online.
-I really like `Trinkets <https://trinket.io/>`_ and will use them a lot in the curriculum.
+There are plenty of website out there that will let you test out Python code online. `Trinkets <https://trinket.io/>`_ is a great resource that we'll use a lot during this course. 
 
-I also like `C9 <c9.io>`_ as a more advanced environment.
-
-
+`C9 <c9.io>`_ is a more powerful environment which students can also use if they're looking for a more advanced experience.

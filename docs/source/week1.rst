@@ -4,18 +4,14 @@ Week 1: Hello World
 Summary
 ^^^^^^^
 
-Week 1 of Introduction to Python covered the basics of syntax and computational thinking. We talked about how the Python interpreter expects exact directions and demonstrated it through a peanut butter sandwich exercise.
+To come after the lesson!
 
-Basic variables and operators were discussed and practiced.  We did an envelope exercise to demonstrate the difference between variables and values.  We talked about the assignment of variables with single '=' sign.  We covered all of the major operators, include modulo.  We practiced these as well on a workshoot in class.
-
-We also saw the basics of strings.  String arithmetic was covered: strings can be added together in an operation called concatenation and multiplied to be repeated.  Strings are important to keep straight, so the importance of noticing which quotation marks are used was stressed.
-
-We ended by talking about how to convert between floats, ints, and strings by using their conversion functions.  We will cover these again at the beginning of class because we only saw them briefly.
+Preview: We'll be talking about the very basics of computers, Python, and programming.
 
 Homework
 ^^^^^^^^
 
-The homework was to get Python installed and working on home computers.
+The homework for this week is to get Python installed and working on your home computer.
 
 Extra Resources
 ^^^^^^^^^^^^^^^
