@@ -1,15 +1,15 @@
 .. Resource master file for the Heroes Academy Winter 2016 Introduction to AI course
-.. author: brian mcmahan
-.. date: 1/9/2016
+.. author: brian mcmahan, tim meo
+.. date: 4/9/2016
 
 Heroes Academy: Introduction to Python, Winter 2016
 ===============================================
 
 Course Description
 =====================
-Computing technology has integrated itself into every aspect of our lives.  In this course, we will tour through one of the most popular programming languages: Python.  Python is used at companies like Google, Microsoft, Facebook, Amazon, and Apple to accomplish a huge variety of tasks.  It's versatility, similarity to the English language, and large community support make it one of the best programming languages for learning.
+Computing technology has integrated itself into every aspect of our lives.  In this course, we will tour through one of the most popular programming languages: Python.  Python is used at companies like Google, Microsoft, Facebook, Amazon, and Apple to accomplish a huge variety of tasks.  Its versatility, similarity to the English language, and large community support make it one of the best programming languages for learning.
 
-This course will cover the basics of problem solving with Python.  We will cover the basics: standard data types, loops, conditional statements, functions, and classes.  Students will not only learn the basics of syntax, but also how to solve problems with programming.  The course will leave students able to move forward to more complex topics at Heroes Academy or dive into self-taught studies at home.
+This course will cover the basics of problem solving with Python.  We will cover the basics: standard data types, loops, conditional statements, functions, and classes.  Students will not only learn the basics of syntax, but also how to solve problems with programming.  The course will leave students able to move forward to more complex topics at Heroes Academy, or dive into self-taught studies at home.
 
 
 How to Browse This Document

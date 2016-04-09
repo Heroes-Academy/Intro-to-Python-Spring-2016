@@ -46,7 +46,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'IntroPython_Winter_2016'
+project = u'IntroPython_Spring_2016'
 copyright = u'2016, Brian McMahan'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -179,7 +179,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'IntroPython_Winter_2016doc'
+htmlhelp_basename = 'IntroPython_Spring_2016doc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -199,7 +199,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'IntroPython_Winter_2016.tex', u'IntroPython\\_Winter\\_2016 Documentation',
+  ('index', 'IntroPython_Spring_2016.tex', u'IntroPython\\_Spring\\_2016 Documentation',
    u'Brian McMahan', 'manual'),
 ]
 
@@ -229,7 +229,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'intropython_winter_2016', u'IntroPython_Winter_2016 Documentation',
+    ('index', 'intropython_spring_2016', u'IntroPython_Spring_2016 Documentation',
      [u'Brian McMahan'], 1)
 ]
 
@@ -243,8 +243,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'IntroPython_Winter_2016', u'IntroPython_Winter_2016 Documentation',
-   u'Brian McMahan', 'IntroPython_Winter_2016', 'One line description of project.',
+  ('index', 'IntroPython_Spring_2016', u'IntroPython_Spring_2016 Documentation',
+   u'Brian McMahan', 'IntroPython_Spring_2016', 'One line description of project.',
    'Miscellaneous'),
 ]
 

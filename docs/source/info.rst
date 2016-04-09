@@ -9,7 +9,7 @@ HEROES Academy is an intellectually stimulating environment where students’ pe
 When does this course meet?
 ---------------------------
 
-Intro to Python will meet from 4:30 to 6:30 pm on the following Sundays: January 10, 17, 24, 31; February 7, 21, 28; March 6, 13, 20.
+Intro to Python will meet from 11:30 AM to 1:30 PM on the following Sundays: April 10, 17, 24; May 1, 8, 15, 22; June 5, 12, 19.
 
 How do I register for this course?
 ----------------------------------
@@ -37,6 +37,6 @@ I expect that...
 How do I contact you?
 ---------------------
 
-You can contact me through the following email: bmcmahan@njgifted.org
+You can contact me through the following email: tim.meo14@gmail.com
 
 
