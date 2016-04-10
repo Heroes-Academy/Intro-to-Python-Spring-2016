@@ -9,6 +9,11 @@ To come after the lesson!
 
 Preview: We'll be talking about building classes and the `__init__` function
 
+Extra Resources
+---------------
+
+To come after the lesson!
+
 Homework
 --------
 

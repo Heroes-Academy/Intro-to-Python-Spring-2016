@@ -8,6 +8,11 @@ To come after the lesson!
 
 Preview: We'll be talking about functions, return values, and classes
 
+Extra Resources
+---------------
+
+To come after the lesson!
+
 Homework
 --------
 
