@@ -41,6 +41,6 @@ I expect that...
 How do I contact you?
 ---------------------
 
-You can reach me anytime at tim.meo14@gmail.com
+You can reach me anytime at tmeo@njgifted.org
 
 
