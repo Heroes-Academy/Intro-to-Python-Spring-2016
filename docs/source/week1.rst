@@ -4,9 +4,36 @@ Week 1: Hello World
 Summary
 ^^^^^^^
 
-To come after the lesson!
+This was our first lesson! We introduced ourselves and covered classroom basics (ask questions if you don't understand, learning is more important than being right, etc.). We discussed what computers are, what input and output are (input = you feed information to the computer, output = the computer returns some information to you), and what computer programming actually is (giving instructions to a computer). Python is just one language you can use to give a computer instructions. 
 
-Preview: We'll be talking about the very basics of computers, Python, and programming.
+Values are data - things like 25, "Hello", and 3.14159. Variables are just containers that hold that data. Each variable you use in code gets its own name - it's like an envelope that you label so you remember what's inside of it. You make variables in Python using the "assignment" operator, which is the equals sign (=). Here are some examples:
+
+x = 5
+my_text = "Hello, World!"
+num3 = 3333.333
+text_number = "500"
+
+(Remember - you can tell if a variable is a String if it's surrounded by '' or "")
+
+There are 4 main types of data in Python: 
+
+- Integers (numbers with no decimal place)
+- Floats (numbers with a decimal place)
+- Strings (text, surrounded by quotes)
+- Booleans (True or False)
+
+We learned two commands: print(), which prints whatever you put in the parentheses, and type(), which prints out the type (integer, float, string, boolean) of whatever is in the parentheses. 
+
+We also previewed some of Week 2's material, mostly just the following simple mathematical operators:
+
+"+" addition, 3 + 5 = 8
+"-" subtraction, 10.1 - 6 = 4.1
+"*" multiplication, 2 * 2 = 4
+"/" division, 11 / 2 = 5.5
+
+There are also two special math operators. The first is "//", or floor division. This acts like remainder division, but leaves off the remainder. So, 13 // 5 = 2, and 4 // 100 = 0. And "%" is modulo, which acts like remainder division but only says the remainder. So, 5 % 3 = 2, 100 % 50 = 0, 7 % 10 = 7, etc.
+
+We went over these toward the end of class, so we'll review them at the beginning of Week 2.
 
 Homework
 ^^^^^^^^
