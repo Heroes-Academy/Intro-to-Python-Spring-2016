@@ -25,7 +25,11 @@ There are 4 main types of data in Python:
 - Strings (text, surrounded by quotes)
 - Booleans (True or False)
 
-We learned two commands: print(), which prints whatever you put in the parentheses, and type(), which prints out the type (integer, float, string, boolean) of whatever is in the parentheses. 
+We learned three commands: 
+
+- print(), which prints out whatever you put in the parentheses
+- type(), which evaluates the type (integer, float, string, boolean) of whatever is in the parentheses
+- len(), which evaluates the length of whatever is in the parentheses. For example, len("Hello!") = 6 
 
 We also previewed some of Week 2's material, mostly just the following simple mathematical operators:
 
