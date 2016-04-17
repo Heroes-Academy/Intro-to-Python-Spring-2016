@@ -8,7 +8,7 @@ This was our first lesson! We introduced ourselves and covered classroom basics 
 
 Values are data - things like 25, "Hello", and 3.14159. Variables are just containers that hold that data. Each variable you use in code gets its own name - it's like an envelope that you label so you remember what's inside of it. You make variables in Python using the "assignment" operator, which is the equals sign (=). Here are some examples:
 
-x = 5\n
+x = 5
 
 my_text = "Hello, World!"
 
