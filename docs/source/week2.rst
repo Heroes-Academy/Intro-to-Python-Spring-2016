@@ -11,7 +11,7 @@ In-Class and Homework Exercises
 
 There are three different exercises for homework this week. They are all ".py" files, so you should open them using PyCharm!
 
-The homework files are located `on the course Github page <https://github.com/Heroes-Academy/Intro-to-Python-Spring-2016/tree/master/code/week2>`. To download a file, right-click on its name and select "Save link as..." then select where you want to save it.
+The homework files are located `on the course Github page <https://github.com/Heroes-Academy/Intro-to-Python-Spring-2016/tree/master/code/week2>`_. To download a file, right-click on its name and select "Save link as..." then select where you want to save it.
 
 Once you've downloaded the homework files, open PyCharm on your computer. Click "File", then click "Open", and select one of the homework files. (remember, they end in .py) We haven't used PyCharm in class yet, so don't worry - you're just using it to view the homework. As you can see, PyCharm makes reading code way easier than a basic text editor!
 
