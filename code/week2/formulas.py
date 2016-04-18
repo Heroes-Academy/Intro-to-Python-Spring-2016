@@ -2,7 +2,7 @@
 I will provide the equations in the comments and you must
 write the code that reflects the equations.
 
-I will also specify which variable you should input.
+I will also specify which variables you should get from input.
 You should write a message indicating what the person is inputting.
 
 I have done the first one for you.
