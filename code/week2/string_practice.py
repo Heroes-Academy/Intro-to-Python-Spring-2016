@@ -50,10 +50,10 @@ print(str1[0])
 
 
 # Question 8
-# what will print(str1[:3])) print?
+# what will print(str1[:3]) print?
 # Answer:
 
 
 # Question 9
-# what will print(str1[3] + str1[7:] print?
+# what will print(str1[3] + str1[7:]) print?
 # Answer:
