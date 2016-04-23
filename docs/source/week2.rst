@@ -17,17 +17,14 @@ We covered the following topics in Week 2 of class:
 
 Inserting a new line in a String
 ********************************
-The String “Hello, \n World!” will print like this:
+You can use \\n in the middle of a String to make a new line. For example, the String “Hello, \\n World!” will print like this:
+::
+    Hello,
+    World!
 
-```
-Hello,
-World!
-```
-
-You can also use \t in the middle of a String to make an indent. “Hello, \t World!” will print like this:
-```
-Hello,     World!
-```
+You can also use \\t in the middle of a String to make an indent. “Hello, \\t World!” will print like this:
+::
+    Hello,     World!
 
 Concatenating Strings
 *********************
@@ -66,7 +63,7 @@ For example: If str = “computer”, then:
 
 ...and so on. 
 
-You can use index -1 to get the last letter of a String too.
+You can put -1 in the brackets to get the last letter of a String too.
 
 - str[-1] is “r”
 - str[-2] is “e”
@@ -81,24 +78,24 @@ By getting a slice of a String, you can get multiple characters all at once. Use
 
 For example:
 ::
-    str1 = “fantastic!”
-    str1[0:3]
+    str = “fantastic!”
+    print(str[0:3])
 
 This will give you “fan”. It starts at 0, and stops just before the character at position 3. So, you get the letters at positions 0, 1, and 2. 
 
 Some more examples:
 
-- str1[1:4] is “ant”
-- str1[0:2] is “fa”
-- str1[3:7] is “tast”
+- str[1:4] is “ant”
+- str[0:2] is “fa”
+- str[3:7] is “tast”
 
 ...and so on. If you leave out the first number, the slice will start at the beginning of the String.
 
-- For example: str1[:5] is “fanta”
+- For example: str[:5] is “fanta”
 
 If you leave out the second number, the slice will go until the end of the String.
 
-- For example: str1[2:] is “ntastic!”
+- For example: str[2:] is “ntastic!”
 
 Math shortcuts
 **************
