@@ -15,23 +15,23 @@ We covered the following topics in Week 2 of class:
 -	User Input
 
 
-### Inserting a new line in a String
+Inserting a new line in a String
 The String “Hello, \n World!” will print like this:
 
-```python
+```
 Hello,
 World!
 ```
 
 You can also use \t in the middle of a String to make an indent. “Hello, \t World!” will print like this:
-```python
+```
 Hello,     World!
 ```
 ### Concatenating Strings
 You can combine Strings using the + sign.
 
 Example: 
-```python
+```
 str1 = “Hello”
 str2 = “World!”
 str3 = str1 + str2
@@ -42,7 +42,7 @@ This will print out “HelloWorld!”
 ### Repeating a String
 You can repeat Strings using the * sign
 Example: 
-```python
+```
 str1 = “bogdan”
 str2 = str1 * 3
 print(str2)
@@ -71,7 +71,7 @@ Remember, every character gets its own index – even numbers, symbols, and spac
 By getting a slice of a String, you can get multiple characters all at once. Use square brackets for this too. Inside the brackets, you first put the starting index, then a colon, and then the ending index. 
 
 For example:
-```python
+```
 str1 = “fantastic!”
 str1[0:3]
 ```
@@ -91,11 +91,11 @@ If you leave out the second number, the slice will go until the end of the Strin
 ### Math shortcuts
 Let’s say you’re writing code and have a variable x = 5. What if you want to increase x by 10?
 You could do this: 
-```python
+```
 x = x + 10 
 ```
 Python gives you a shortcut way to write this:
-```python
+```
 x += 10
 ```
 
@@ -114,7 +114,7 @@ You can use this shortcut with the following math signs:
 In Python, variables all have a type. If you do ```my_number = 5.1234```, then the variable ```my_number``` has type Float (because it’s a number with a decimal point). 
 
 In Python, sometimes you can convert variables to be a different type. For example, remember that there are two kinds of numbers in Python: int (no decimal) and float (with a decimal). You can convert from one to the other:
-```python
+```
 my_float = 5.1234
 other_number = int(my_float)
 print(other_number)
@@ -122,7 +122,7 @@ print(other_number)
 This will print out 5. When you convert a float to an int, Python simply chops off the decimal part.
 
 Or:
-```python
+```
 my_int = 10
 some_float = float(my_int)
 print(my_int)
@@ -130,7 +130,7 @@ print(my_int)
 This will print out 10.0 (Python just adds a decimal point when you convert an int to a float).
 
 If you have a String that is just a number, for example, var1 = “100”, you can convert that to an int or float! 
-```python
+```
 var2 = int(var1)
 var3 = float(var1)
 ```
@@ -138,7 +138,7 @@ var3 = float(var1)
 One note of caution: if you have a String variable like ```my_string_variable = “50.3”```, you can’t directly convert it to an Int (because it has a decimal point). If you want it to be an Int, you’d have to first convert it to a Float, and then to an Int.
 
 Finally, you can convert just about anything to a String. 
-```python
+```
 my_num = 505.606
 some_text = str(my_num)
 print(some_text)
@@ -150,17 +150,17 @@ The last thing we learned in Week 2 was how to get user input. This is where you
 
 Here’s a quick example. Type the following code into the Python shell:
 
-```python
+```
 user_name = input(“Please type in your name: ”)
 ```
 If you type that code in and press enter, it will display the message, “Please type in your name: ” and wait for a response. Type something in (any name will do) and press enter. Then type the following code:
-```python
+```
 print(user_name)
 ```
 It should print back out whatever you typed in! The name you typed is saved in the variable ```user_name```, so you can treat it like any normal String. 
 
 Maybe you want to print out how many letters are in your name:
-```python
+```
 name_length = len(user_name)
 print(name_length)
 ```
