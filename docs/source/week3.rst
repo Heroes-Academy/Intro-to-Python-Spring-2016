@@ -1,4 +1,4 @@
-Week 3: Turtles
+Week 3: PyCharm, Booleans, and If Statements
 ===============
 
 Summary
@@ -6,7 +6,7 @@ Summary
 
 To come after the lesson!
 
-Preview: We'll be talking about...turtles?
+Preview: We'll be talking about how to use Booleans (a variable that is either True or False) in code!
 
 In-Class and Homework Exercises
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
