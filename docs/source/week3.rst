@@ -13,7 +13,7 @@ In-Class and Homework Exercises
 
 I'll be posting the class summary, lesson slides, and actual homework assignments tomorrow evening.
 
-But first - I want to make sure everyone's PyCharm is working properly, since a few people mentioned they'd had some trouble. Now that we've used PyCharm in class, try using it at home, `following the guide on the Week 3 Github page <https://github.com/Heroes-Academy/Intro-to-Python-Spring-2016/tree/master/code/week3>`_.
+But first - I want to make sure everyone's PyCharm is working properly, since a few people mentioned they'd had some trouble. Now that we've used PyCharm in class, try using it at home, `following the guide on the Week 3 Github page <https://github.com/Heroes-Academy/Intro-to-Python-Spring-2016/tree/master/code/Week%2003>`_. The filename is "Using PyCharm.pdf", and you can either view it directly on GitHub, or download it.
 
 Email me back once you've tried it out, and let me know either if it worked, or if you ran into a problem! If you had a problem, just describe what it was, maybe with a screenshot of the issue. We'll work to get it sorted out, and then proceed from there.
 
