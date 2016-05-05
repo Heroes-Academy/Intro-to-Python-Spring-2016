@@ -22,4 +22,6 @@ To come after the lesson!
 Lecture Slides
 ^^^^^^^^^^^^^^
 
-To come after the lesson!
+.. raw:: html
+
+    <iframe src="https://docs.google.com/presentation/d/11AbDeg1zcNH7walf2hUoY7wtH0eqttQCvNvRMM1-qzY/embed?start=false&loop=false&delayms=30000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
