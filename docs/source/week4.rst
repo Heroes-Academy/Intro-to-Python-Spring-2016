@@ -1,13 +1,13 @@
-Week 4: Collections
-===================
+Week 4: Turtles, Elif-Else, and For Loops
+=========================================
 
 
 Summary
 ^^^^^^^
 
-To come after the lesson!
+This week we learned more complex types of If Statements: The If-Else, and If-Elif-Else structures.
 
-Preview: We'll be talking about different types of lists - tuples, dictionaries, etc.
+It helps to think of the three of them like this:
 
 Homework
 ^^^^^^^^
