@@ -16,13 +16,11 @@ It helps to think of the three of them like this:
 Each kind of statement is indented in the same way - with 4 spaces. Here's an example of each:
 
 If Statement:
-
 ::
 	if x == 5:
 		print("x is 5!")
 		
 If-Else Statement:
-
 ::
 	if x == "Penny":
 		print("Your name is Penny!")
@@ -30,7 +28,6 @@ If-Else Statement:
 		print("Looks like your name isn't Penny!")
 		
 If-Elif-Else Statement:
-
 ::
 	if age == 50:
 		print("You're really old!")
@@ -56,7 +53,6 @@ We spent quite a while working with Turtles and doing various activities - drawi
 The last thing we learned about is the **For loop.** For loops are great - they use indented lines to form a 'paragraph' (kind of like If statements!) and let you run the code in that paragraph over and over again, as many times as you want!
 
 Say you wanted to print someone's name 10 times (kind of a ridiculous example). The loop would look like this:
-
 ::
 	for i in range(10):
 		print("Cinder")
@@ -78,7 +74,6 @@ In the above For loop, Python will repeated the indented code 10 times, and each
 etc.
 
 So you can also do something like this:
-
 ::
 	for i in range(5):
 		print(i)
