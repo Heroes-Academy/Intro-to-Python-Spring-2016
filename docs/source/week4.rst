@@ -48,7 +48,7 @@ Every different type of Object has its own unique set of functions and propertie
 
 We'll talk more about Objects later - and eventually you'll learn how to write your own! - but for this week, I just wanted to introduce the concept. Objects are **things**, functions are **actions**, and properties are **details** about an Object.
 
-We spent quite a while working with Turtles and doing various activities - drawing shapes and words, using different colors, etc. Some of the code we used in class will be included in the "Extra Resources" section below, so look there if you want to try some out on your own!
+We spent quite a while working with Turtles and doing various activities - drawing shapes and words, using different colors, etc. A link to the Turtles Cheat Sheet I handed out is included in the "Extra Resources" section below, so look there if you want to try some out on your own!
 
 The last thing we learned about is the ``for`` loop. ``for`` loops are great - they use indented lines to form a 'paragraph' (kind of like If statements!) and let you run the code in that paragraph over and over again, as many times as you want!
 
@@ -90,6 +90,7 @@ No homework this week! Be ready for next week - we'll be reviewing a lot!
 Extra Resources
 ^^^^^^^^^^^^^^^
 
+`Turtle Cheat Sheet <https://github.com/Heroes-Academy/Intro-to-Python-Spring-2016/blob/master/code/Week%2004/Turtles%20Cheat%20Sheet.pdf>`_
 
 Lecture Slides
 ^^^^^^^^^^^^^^
