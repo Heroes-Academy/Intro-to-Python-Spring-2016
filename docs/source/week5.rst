@@ -42,8 +42,8 @@ You can get items from a list using the same syntax as indexing and slicing stri
 To make a blank dictionary and add items to it:
 ::
 	my_dict = {}
-	my_dict["first entry"] = "This is the first entry!")
-	my_dict["second entry"] = "This is the second entry!")
+	my_dict["first entry"] = "This is the first entry!"
+	my_dict["second entry"] = "This is the second entry!"
 
 Then, ``print(my_dict["first entry"])`` will print "This is the first entry!"
 
