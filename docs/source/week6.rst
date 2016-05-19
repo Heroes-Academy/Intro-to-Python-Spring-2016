@@ -11,18 +11,18 @@ So what is a function? The short answer is, it's a bunch of lines of code that y
 
 Here's an example: Say you wrote some code that prints a bunch of sentences in a particular order, like this:
 ::
-	print("First sentence")
-	print("Second sentence")
-	print("Final sentence!")
+	print("First sentence\n")
+	print("Second sentence\n")
+	print("Final sentence!\n")
 	
- If you wanted to write this code as a **function**, it would look like this:
- ::
+If you wanted to write this code as a **function**, it would look like this:
+::
 	def three_sentences():
-		print("First sentence")
-		print("Second sentence")
-		print("Final sentence!")
+		print("First sentence\n")
+		print("Second sentence\n")
+		print("Final sentence!\n")
 
-		Things to note:
+Things to note:
 - ``def`` (define) is a keyword that tells Python you're about to write a function
 - The next word is the name of the function (you choose this - it can be whatever you like), followed by parentheses (these also indicate to Python that it's a function)
 - The line ends with a colon, just like loops and ``if`` statements. As always, the contents of the function - its "paragraph" - are indented by 4 spaces
@@ -34,9 +34,9 @@ The code above just **defines** the function called ``three_sentences``. None of
 After you've **defined** the function like we did above, you can **call** it anywhere in your code. Calling a function is the same as executing a function. You can call a functino simply by writing the function name, followed by parentheses. For example, look at this code block:
 ::
 	def three_sentences():
-		print("First sentence")
-		print("Second sentence")
-		print("Final sentence!")
+		print("First sentence\n")
+		print("Second sentence\n")
+		print("Final sentence!\n")
 	
 	print("OK, let's call the function!\n")
 	
@@ -55,7 +55,7 @@ The thing you put in the parentheses is called an **argument**. That's just anot
 We can write functions that take arguments too. For example, let's say you wanted to write a function where, when somebody calls it, they need to put a name (probably a String) in the parentheses, and the function will print out a greeting for that particular person. It would probably look something like this:
 ::
 	def greeting(name):
-		print("Hello there, " + name + "!")
+		print("Hello there, " + name + "!\n")
 
 To write a function that takes an **argument** in its parentheses, you simply write a *variable name* inside the parentheses like I did with the ``name`` variable above. Then you can use that variable in the function! 
 
@@ -74,6 +74,7 @@ You can even have more than one argument in a function! Check out the example be
 	def add_two_numbers(num1, num2):
 		sum = num1 + num2
 		print(sum)
+		print("\n")
 		
 If you put that at the top of your program, now you can call it to get the sum of any two numbers! For example, try ``add_two_numbers(0, 5)``, ``add_two_numbers(100, -56)``, and ``add_two_numbers(.0456, .55903)``. s you can see, multiple arguments are just separated by commas, both when **defining** a function, and also **calling** a function.
 
@@ -90,6 +91,7 @@ So, for example:
 	def add_two_numbers(num1, num2):
 		sum = num1 + num2
 		print(sum)
+		print("\n")
 		
 	print("Let's sum two numbers!")
 	add_two_numbers(1, 2)
@@ -112,7 +114,7 @@ I have 3 exercises I'd like you to complete in PyCharm this week. They might see
 	- ``compare_two_numbers(num1, num2)``, which prints which of the two numbers is bigger (hint: you'll need an if statement for this one!)
 	- Then, after you've defined these functions, call each one once to demonstrate that it works.
 	
-3. Write any function using the ```turtle``` module. It can be as simple as you like (for example, ``draw_straight_line``), as long as it 1) takes a **turtle** as an **argument**, and 2) makes that turtle do something. Be creative and challenge yourself!
+3. Write any function using the ``turtle`` module. It can be as simple as you like (for example, ``draw_straight_line``), as long as it 1) takes a **turtle** as an **argument**, and 2) makes that turtle do something. Be creative and challenge yourself!
 
 Remember to email me with questions and answers as tmeo*njgifted.org. I'm always happy to help!
 
