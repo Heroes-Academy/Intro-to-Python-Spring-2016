@@ -108,11 +108,12 @@ I have 3 exercises I'd like you to complete in PyCharm this week. They might see
 
 1. Simply write a program that defines the ``add_two_numbers`` function from above. Call the function with 5 different pairs of numbers. Then try the following two experiments: What happens if you call it with a pair of Strings? What happens if you call it with one Int and one Boolean?
 
-2. Write a program that defines the following functions:
-	- ``difference_between_two_numbers(num1, num2)``, which subtracts one number from the other and prints the result
-	- ``multiply_two_numbers(num1, num2)``, which multiplies the two numbers and prints the result
-	- ``compare_two_numbers(num1, num2)``, which prints which of the two numbers is bigger (hint: you'll need an if statement for this one!)
-	- Then, after you've defined these functions, call each one once to demonstrate that it works.
+2. Write a program that defines the following functions.
+
+- ``difference_between_two_numbers(num1, num2)``, which subtracts one number from the other and prints the result
+- ``multiply_two_numbers(num1, num2)``, which multiplies the two numbers and prints the result
+- ``compare_two_numbers(num1, num2)``, which prints which of the two numbers is bigger (hint: you'll need an if statement for this one!)
+- Then, after you've defined these functions, call each one once to demonstrate that it works.
 	
 3. Write any function using the ``turtle`` module. It can be as simple as you like (for example, ``draw_straight_line``), as long as it 1) takes a **turtle** as an **argument**, and 2) makes that turtle do something. Be creative and challenge yourself!
 
