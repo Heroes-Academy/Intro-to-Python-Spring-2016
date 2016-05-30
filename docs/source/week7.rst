@@ -61,8 +61,7 @@ Extra Resources
 
 These are the classes you guys wrote in this week's lesson. Use them as an example!
 
-The ``Clown`` class
-*******************
+The ``Clown`` class:
 ::
 	class Clown:
 		name = "Trisha Perthen Ferdletate Torhalimil Ludwig Sonyetta Paghetti Careyeep"
@@ -87,8 +86,7 @@ The ``Clown`` class
 				print ("MY AWESOMELY AWESOME NICENESS IS COMING INTO PLAY, BECAUSE I WILL GIVE Y0U 3 SECONDS TO RUN AWAY. GOOD LUUCCCKKK!")
 
 				
-The ``Tornado`` class
-*********************
+The ``Tornado`` class:
 ::
 	class Tornado:
 		rank=0
@@ -118,8 +116,7 @@ The ``Tornado`` class
 			print("The tornado has rank " + str(self.rank), "we are going to see speeds up to " + str(self.speed))
 
 			
-The ``Computer_Virus`` class
-****************************
+The ``Computer_Virus`` class:
 ::
 	class Computer_Virus:
 		type = "Type A"
@@ -136,8 +133,7 @@ The ``Computer_Virus`` class
 				print("jkasergtervfasdgfhygawebvfrn dsavgsvfheawhfaehdnhZbn,vfabndvfyukwevgbafj,evhfasdvkeujkvfhamdbmhvfasghdvqefhamehjvf" * 100)
 				
 
-The ``Door`` class
-******************
+The ``Door`` class:
 ::
 	class Door:
 		color = "brown"
