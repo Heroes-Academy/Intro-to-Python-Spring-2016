@@ -31,7 +31,7 @@ Defining Functions and Calling Functions
 ****************************************
 The code above just **defines** the function called ``three_sentences``. None of the code will actually be executed; we;re just letting the computer know that in the future, if we say ``three_sentences()``, we're talking about this paragraph.
 
-After you've **defined** the function like we did above, you can **call** it anywhere in your code. Calling a function is the same as executing a function. You can call a functino simply by writing the function name, followed by parentheses. For example, look at this code block:
+After you've **defined** the function like we did above, you can **call** it anywhere in your code. Calling a function is the same as executing a function. You can call a function simply by writing the function name, followed by parentheses. For example, look at this code block:
 ::
 	def three_sentences():
 		print("First sentence\n")
