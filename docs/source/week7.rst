@@ -48,7 +48,7 @@ Remember, classes have two very important features in Python: **properties**, wh
 
 For example, a ``Dog`` object in Python might have the properties ``name``, ``age``, ``height``, etc., and functions like ``run(self)``, ``bark(self)``, and ``fetch(self)``. Remember that when you're defining functions inside an object, you need to make the first argument (the first thing in the parentheses) the keyword ``self``, which tells Python, "this function belongs to this object type." 
 
-Similarly, inside of a class's function, if you want to reference one of that class's properties, you also need to use the ``self`` keyword. So, in the ``back(self)`` function for a dog, if you wanted to print its name, it would look like this:
+Similarly, inside of a class's function, if you want to reference one of that class's properties, you also need to use the ``self`` keyword. So, in the ``bark(self)`` function for a dog, if you wanted to print its name, it would look like this:
 ::
 	def bark(self)
 		print("Hello! My name is " + self.name)
