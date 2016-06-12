@@ -54,9 +54,46 @@ This code will print a random number from 0 to 10.
 
 Move a Turtle Object Using the Arrow Keys
 *****************************************
+You can use the following code to set up a Turtle object and move it with the arrow keys:
+::
+	import turtle
+	
+	bob = turtle.Turtle()
+	
+	# set the speed at which Bob turns and moves forward/backward
+	move_speed = 10
+	turn_speed = 10
 
+	# functions that will be called by the arrow keys
+	def move_turtle_forward():
+	  bob.forward(move_speed)
 
+	def move_turtle_backward():
+	  bob.backward(move_speed)
 
+	def turn_turtle_left():
+	  bob.left(turn_speed)
+
+	def turn_turtle_right():
+	  bob.right(turn_speed)
+
+	# don't have Bob draw a line as he moves about the screen
+	bob.penup()
+	bob.speed(0)
+	bob.home()
+
+	# with this code, when the user hits the designated key on the keyboard, the specified function will be called
+	screen.onkey(move_turtle_forward, "Up")
+	screen.onkey(move_turtle_backward, "Down")
+	screen.onkey(turn_turtle_left, "Left")
+	screen.onkey(turn_turtle_right, "Right")
+	
+	# this continually has the program wait for the user to hit keys on the keyboard
+	screen.listen()
+
+	turtle.done()
+
+That's it! The explanations for the code are included in its comments. 
 
 Homework
 ^^^^^^^^
@@ -81,7 +118,8 @@ Remember to email me with any questions about either your final project or the o
 Extra Resources
 ^^^^^^^^^^^^^^^
 
-Example Presentation Slideshow
+`Project Overview Example <https://github.com/Heroes-Academy/Intro-to-Python-Spring-2016/blob/master/code/Week%2009/Project%20Overview%20Example.pdf>`_
+
 
 Lecture Slides
 ^^^^^^^^^^^^^^
